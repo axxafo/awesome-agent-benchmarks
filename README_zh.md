@@ -1,4 +1,4 @@
-🇨🇳 [中文](README.md) | 🇬🇧 [English](README_en.md)
+CN [中文](README_zh.md) | EN [English](README.md)
 
 # 🧠 awesome-agent-benchmarks
 
