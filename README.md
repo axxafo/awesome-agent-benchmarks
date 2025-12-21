@@ -1,3 +1,6 @@
+![Stars](https://img.shields.io/github/stars/dataanswer/awesome-agent-benchmarks?style=social)
+![License](https://img.shields.io/github/license/dataanswer/awesome-agent-benchmarks)
+
 CN [中文](README_zh.md) | EN [English](README.md)
 
 # 🧠 Awesome Agent Benchmarks
