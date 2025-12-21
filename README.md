@@ -20,12 +20,75 @@
 
 ## 🔍 已收录代表性数据集
 
+1. WebArena
+https://webarena.dev
+https://github.com/web-arena/WebArena
+WebArena: A Realistic Web Environment for Building Autonomous Agents (NeurIPS 2023)
+
+2. VisualWebArena
+https://jykh.com/vwa
+https://github.com/web-arena-x/visualwebarena
+https://hf-mirror.com/datasets/kevinhikali/aworld_visualwebarena
+
+3. Mind2Web
+https://huggingface.co/datasets/Mind2Web
+https://osu-nlp-group.github.io/Mind2Web/
+https://github.com/OSU-NLP-Group/Mind2Web
+https://d6108366.hf-mirror.com/datasets/osunlp/Mind2Web
+
+4. Mind2Web-Live
+https://huggingface.co/datasets/iMeanAI/Mind2Web-Live
+https://hf-mirror.com/datasets/iMeanAI/Mind2Web-Live
+WebCanvas: Benchmarking Web Agents in Online Environments
+
+5. GAIA
+https://huggingface.co/datasets/gaia-benchmark/GAIA
+https://hf-mirror.com/datasets/gaia-benchmark/GAIA
+GAIA: a benchmark for General AI Assistants (Meta AI, 2023)
+
+6. WorkArena
+https://github.com/ServiceNow/WorkArena
+https://hf-mirror.com/datasets/ServiceNow/WorkArena-Instances
+[WorkArena]How Capable are Web Agents at Solving Common Knowledge Work Tasks?https://arxiv.org/pdf/2403.07718.pdf
+
+7. TaskCraft
+https://taskcraft.ai
+https://huggingface.co/datasets/oppo-research/TaskCraft
+https://hf-mirror.com/datasets/PersonalAILab/TaskCraft
+TaskCraft: A Large-Scale Dataset for Mobile Agent Training (CVPR 2025)
+https://arxiv.org/abs/2506.10055
+
+8. InternData-A1
+https://huggingface.co/datasets/InternRobotics/InternData-A1
+https://hf-mirror.com/datasets/InternRobotics/InternData-A1
+InternData: Scaling Up Synthetic Embodied Data for Generalist Agents 
+https://huggingface.co/datasets/OpenBMB/ToolBench
+https://github.com/OpenBMB/ToolBench
+https://hf-mirror.com/datasets/Maurus/ToolBench
+ToolBench: A Large-Scale Benchmark for Tool-Augmented LLMs (arXiv:2308.08644, 2023)
+
+9. API-Bank
+https://modelscope.cn/datasets/Tongyi-Laboratory/API-Bank
+https://hf-mirror.com/datasets/liminghao1630/API-Bank
+API-Bank: A Benchmark for Enterprise-Grade Tool-Using Agents (Alibaba Tech Report, 2024)
+
+10. SWE-bench
+https://swebench.com
+https://github.com/princeton-nlp/SWE-bench
+https://hf-mirror.com/datasets/princeton-nlp/SWE-bench
+SWE-bench: Can Language Models Solve Real-World Software Issues? (NeurIPS 2023)
+
+......
+
+
+> 💡 **为了方便大家查找，我们提供了一个完整列表在线访问 → [agentbench-navigator](https://www.dataanswer.top/)**
+
 ![输入图片说明](1352c909dc64782718978692a2dd6dd0.png)
 
 ![输入图片说明](288337624c96a46638a3429855f79c31.png)
 
 
-> 💡 **为了方便大家查找，我们提供了一个完整列表在线访问 → [agentbench-navigator](https://www.dataanswer.top/)**
+
 
 ---
 
