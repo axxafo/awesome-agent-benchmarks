@@ -1,4 +1,4 @@
-# 🧠 awesome-agent-benchmarks — 面向AI智能体（Agent）的权威评测数据集集合
+# 🧠 awesome-agent-benchmarks
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -7,7 +7,7 @@
 
 ---
 
-## ✨ 为什么需要这个导航站？
+## ✨ 为什么需要这个合集？
 
 随着 LLM Agent 技术迅猛发展，评测基准（Benchmark）已成为衡量其真实能力的“标尺”。然而：
 - 数据集散落在 GitHub、Hugging Face、论文附录中，**查找困难**
@@ -35,18 +35,17 @@
 ![输入图片说明](288337624c96a46638a3429855f79c31.png)
 
 
-> 💡 **完整列表请访问在线导航站 → [agentbench-navigator](https://cloud1-7gc38f9i7c011c60-1392577459.tcloudbaseapp.com/)**
+> 💡 **为了方便大家查找，我们提供了一个完整列表在线访问 → [agentbench-navigator](https://cloud1-7gc38f9i7c011c60-1392577459.tcloudbaseapp.com/)**
 
 ---
 
 
 ## 🤝 如何贡献？
 
-我们欢迎任何形式的贡献！你的参与能让这个导航站更强大：
+我们欢迎任何形式的贡献！你的参与能让这个awesome-agent-benchmarks更强大：
 
 - **新增数据集**：发现未收录的优质 Agent Benchmark？提交 Issue 或 PR！
 - **修正信息**：链接失效？描述有误？欢迎修复。
-- **优化体验**：改进 UI/UX、增加筛选功能、支持多语言等。
 
 ---
 
@@ -76,7 +75,7 @@
 
 如果你有任何问题、合作建议或想交流 Agent 评测心得，欢迎通过以下方式联系：
 
-- Github: [@hadesi](https://github.com/dataanswer)
+- Github: [@dataanswer](https://github.com/dataanswer)
 - 邮箱: [dataanswer@163.com](dataanswer@163.com)
 
 > 让每一次 Agent 能力评估，都有据可依。
