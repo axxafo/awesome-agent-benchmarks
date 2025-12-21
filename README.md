@@ -47,10 +47,6 @@ Save hours of research time—get straight to what matters.
  
 > 💡 Explore the full list online → [AgentBench Navigator](https://www.dataanswer.top/)
 
-![输入图片说明](1352c909dc64782718978692a2dd6dd0.png)
-
-![输入图片说明](288337624c96a46638a3429855f79c31.png)
-
 ---
 
 ## 🤝 How to Contribute
