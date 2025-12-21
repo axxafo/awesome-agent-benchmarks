@@ -1,4 +1,4 @@
-# 🧠 awesome-agent-benchmarks — 面向AI智能体（Agent）的权威评测数据集导航站
+# 🧠 awesome-agent-benchmarks — 面向AI智能体（Agent）的权威评测数据集集合
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
