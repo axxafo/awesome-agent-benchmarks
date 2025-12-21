@@ -36,7 +36,7 @@ Save hours of research time—get straight to what matters.
 
 | Benchmark | Platform | Year | Highlight | Data Size | Metric | Measurement | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| MiniWoB++ | Web | 2017 | Evaluates agents on basic web interactions like clicking, typing, and form navigation. | 100 web interaction tasks | Task Success Rate | Element Match | https://github.com/Farama%2DFoundation/miniwob%2Dplus |
+| MiniWoB++ | Web | 2017 | Evaluates agents on basic web interactions like clicking, typing, and form navigation. | 100 web interaction tasks | Task Success Rate | Element Match | https://github.com/Farama-Foundation/miniwob-plusplus |
 | RUSS | Web | 2021 | Uses ThingTalk for mapping natural language to web actions, enabling precise web-based task execution in real HTML environments. | 741 instructions | Task Success Rate | Text Match, Element Match | https://github.com/xnancy/russ |
 | WebShop | Web | 2022 | Simulates e-commerce navigation with real-world products, challenging agents with instruction comprehension, multi-page navigation, and strategic exploration. | 12,087 instructions | Task Success Rate, Step Success Rate* | Text Match | https://webshop-pnlp.github.io |
 | Mind2Web | Web | 2023 | Tests adaptability on real-world, dynamic websites across domains. | 2,000 tasks | Step Success Rate, Task Success Rate | Element Match, Action Match | https://github.com/OSU-NLP-Group/Mind2Web |
