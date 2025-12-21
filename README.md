@@ -51,7 +51,6 @@ https://hf-mirror.com/datasets/ServiceNow/WorkArena-Instances<br>
 https://taskcraft.ai<br>
 https://huggingface.co/datasets/oppo-research/TaskCraft<br>
 https://hf-mirror.com/datasets/PersonalAILab/TaskCraft<br>
-https://arxiv.org/abs/2506.10055<br>
 
 8. InternData-A1<br>
 https://huggingface.co/datasets/InternRobotics/InternData-A1<br>
