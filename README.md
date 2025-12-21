@@ -28,24 +28,11 @@ Save hours of research time—get straight to what matters.
 
 ---
 
-## 🔍 Featured Datasets
-
-| Dataset | Links |
-|--------|-------|
-| **WebArena** | [Website](https://webarena.dev) \| [GitHub](https://github.com/web-arena/WebArena) |
-| **VisualWebArena** | [Demo](https://jykh.com/vwa) \| [GitHub](https://github.com/web-arena-x/visualwebarena) \| [Hugging Face](https://hf-mirror.com/datasets/kevinhikali/aworld_visualwebarena) |
-| **Mind2Web** | [HF Dataset](https://huggingface.co/datasets/Mind2Web) \| [Project Page](https://osu-nlp-group.github.io/Mind2Web/) \| [GitHub](https://github.com/OSU-NLP-Group/Mind2Web) |
-| **Mind2Web-Live** | [HF Dataset](https://huggingface.co/datasets/iMeanAI/Mind2Web-Live) |
-| **GAIA** | [HF Dataset](https://huggingface.co/datasets/gaia-benchmark/GAIA) |
-| **WorkArena** | [GitHub](https://github.com/ServiceNow/WorkArena) |
-| **TaskCraft** | [Website](https://taskcraft.ai) \| [HF Dataset](https://huggingface.co/datasets/oppo-research/TaskCraft) |
-| **InternData-A1** | [HF Dataset](https://huggingface.co/datasets/InternRobotics/InternData-A1) |
-| **ToolBench** | [HF Dataset](https://huggingface.co/datasets/OpenBMB/ToolBench) \| [GitHub](https://github.com/OpenBMB/ToolBench) |
-| **API-Bank** | [ModelScope](https://modelscope.cn/datasets/Tongyi-Laboratory/API-Bank) |
-| **SWE-bench** | [Website](https://swebench.com) \| [GitHub](https://github.com/princeton-nlp/SWE-bench) |
-|....... | ....... |
+## 🔍 Datasets
  
 > 💡 Explore the full list online → [AgentBench Navigator](https://www.dataanswer.top/)
+
+### 🔍 GUI Agent
 
 | Benchmark | Platform | Year | Highlight | Data Size | Metric | Measurement | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -100,7 +87,7 @@ Save hours of research time—get straight to what matters.
 | CRAB | Linux, Android | 2024 | Cross-environment benchmark evaluating agents across mobile and desktop devices, using a graph-based evaluation method to handle multiple correct paths and task flexibility. | 120 tasks | Step Success Rate, Efficiency Score | Action Match | https://github.com/crab-benchmark |
 | ScreenSpot  | iOS, Android, macOS, Windows, Web | 2024 | Vision-based GUI benchmark with pre-trained GUI grounding, assessing agents' ability to interact with GUI elements across mobile, desktop, and web platforms using only screenshots. | 1,200 instructions | Step Success Rate | Action Match | https://github.com/niucckevin/SeeClick |
 
----
+..............<br>
 
 ## 🤝 How to Contribute
 
