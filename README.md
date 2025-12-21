@@ -20,65 +20,67 @@
 
 ## 🔍 已收录代表性数据集
 
-1. WebArena
-https://webarena.dev
-https://github.com/web-arena/WebArena
-WebArena: A Realistic Web Environment for Building Autonomous Agents (NeurIPS 2023)
+1. WebArena<br>
+https://webarena.dev<br>
+https://github.com/web-arena/WebArena<br>
+WebArena: A Realistic Web Environment for Building Autonomous Agents (NeurIPS 2023)<br>
 
-2. VisualWebArena
-https://jykh.com/vwa
-https://github.com/web-arena-x/visualwebarena
-https://hf-mirror.com/datasets/kevinhikali/aworld_visualwebarena
+2. VisualWebArena<br>
+https://jykh.com/vwa<br>
+https://github.com/web-arena-x/visualwebarena<br>
+https://hf-mirror.com/datasets/kevinhikali/aworld_visualwebarena<br>
 
-3. Mind2Web
-https://huggingface.co/datasets/Mind2Web
-https://osu-nlp-group.github.io/Mind2Web/
-https://github.com/OSU-NLP-Group/Mind2Web
-https://d6108366.hf-mirror.com/datasets/osunlp/Mind2Web
+3. Mind2Web<br>
+https://huggingface.co/datasets/Mind2Web<br>
+https://osu-nlp-group.github.io/Mind2Web/<br>
+https://github.com/OSU-NLP-Group/Mind2Web<br>
+https://d6108366.hf-mirror.com/datasets/osunlp/Mind2Web<br>
 
-4. Mind2Web-Live
-https://huggingface.co/datasets/iMeanAI/Mind2Web-Live
-https://hf-mirror.com/datasets/iMeanAI/Mind2Web-Live
-WebCanvas: Benchmarking Web Agents in Online Environments
+4. Mind2Web-Live<br>
+https://huggingface.co/datasets/iMeanAI/Mind2Web-Live<br>
+https://hf-mirror.com/datasets/iMeanAI/Mind2Web-Live<br>
+WebCanvas: Benchmarking Web Agents in Online Environments<br>
 
-5. GAIA
-https://huggingface.co/datasets/gaia-benchmark/GAIA
-https://hf-mirror.com/datasets/gaia-benchmark/GAIA
-GAIA: a benchmark for General AI Assistants (Meta AI, 2023)
+5. GAIA<br>
+https://huggingface.co/datasets/gaia-benchmark/GAIA<br>
+https://hf-mirror.com/datasets/gaia-benchmark/GAIA<br>
+GAIA: a benchmark for General AI Assistants (Meta AI, 2023)<br>
 
-6. WorkArena
-https://github.com/ServiceNow/WorkArena
-https://hf-mirror.com/datasets/ServiceNow/WorkArena-Instances
-[WorkArena]How Capable are Web Agents at Solving Common Knowledge Work Tasks?https://arxiv.org/pdf/2403.07718.pdf
+6. WorkArena<br>
+https://github.com/ServiceNow/WorkArena<br>
+https://hf-mirror.com/datasets/ServiceNow/WorkArena-Instances<br>
+[WorkArena]How Capable are Web Agents at Solving Common Knowledge Work Tasks?https://arxiv.org/pdf/2403.07718.pdf<br>
 
-7. TaskCraft
-https://taskcraft.ai
-https://huggingface.co/datasets/oppo-research/TaskCraft
-https://hf-mirror.com/datasets/PersonalAILab/TaskCraft
-TaskCraft: A Large-Scale Dataset for Mobile Agent Training (CVPR 2025)
-https://arxiv.org/abs/2506.10055
+7. TaskCraft<br>
+https://taskcraft.ai<br>
+https://huggingface.co/datasets/oppo-research/TaskCraft<br>
+https://hf-mirror.com/datasets/PersonalAILab/TaskCraft<br>
+TaskCraft: A Large-Scale Dataset for Mobile Agent Training (CVPR 2025)<br>
+https://arxiv.org/abs/2506.10055<br>
 
-8. InternData-A1
-https://huggingface.co/datasets/InternRobotics/InternData-A1
-https://hf-mirror.com/datasets/InternRobotics/InternData-A1
-InternData: Scaling Up Synthetic Embodied Data for Generalist Agents 
-https://huggingface.co/datasets/OpenBMB/ToolBench
-https://github.com/OpenBMB/ToolBench
-https://hf-mirror.com/datasets/Maurus/ToolBench
-ToolBench: A Large-Scale Benchmark for Tool-Augmented LLMs (arXiv:2308.08644, 2023)
+8. InternData-A1<br>
+https://huggingface.co/datasets/InternRobotics/InternData-A1<br>
+https://hf-mirror.com/datasets/InternRobotics/InternData-A1<br>
+InternData: Scaling Up Synthetic Embodied Data for Generalist Agents <br>
 
-9. API-Bank
-https://modelscope.cn/datasets/Tongyi-Laboratory/API-Bank
-https://hf-mirror.com/datasets/liminghao1630/API-Bank
-API-Bank: A Benchmark for Enterprise-Grade Tool-Using Agents (Alibaba Tech Report, 2024)
+9.ToolBench<br>
+https://huggingface.co/datasets/OpenBMB/ToolBench<br>
+https://github.com/OpenBMB/ToolBench<br>
+https://hf-mirror.com/datasets/Maurus/ToolBench<br>
+ToolBench: A Large-Scale Benchmark for Tool-Augmented LLMs (arXiv:2308.08644, 2023)<br>
 
-10. SWE-bench
-https://swebench.com
-https://github.com/princeton-nlp/SWE-bench
-https://hf-mirror.com/datasets/princeton-nlp/SWE-bench
-SWE-bench: Can Language Models Solve Real-World Software Issues? (NeurIPS 2023)
+10. API-Bank<br>
+https://modelscope.cn/datasets/Tongyi-Laboratory/API-Bank<br>
+https://hf-mirror.com/datasets/liminghao1630/API-Bank<br>
+API-Bank: A Benchmark for Enterprise-Grade Tool-Using Agents (Alibaba Tech Report, 2024)<br>
 
-......
+11. SWE-bench<br>
+https://swebench.com<br>
+https://github.com/princeton-nlp/SWE-bench<br>
+https://hf-mirror.com/datasets/princeton-nlp/SWE-bench<br>
+SWE-bench: Can Language Models Solve Real-World Software Issues? (NeurIPS 2023)<br>
+
+......<br>
 
 
 > 💡 **为了方便大家查找，我们提供了一个完整列表在线访问 → [agentbench-navigator](https://www.dataanswer.top/)**
