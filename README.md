@@ -1,6 +1,4 @@
-# awesome-agent-benchmarks
-Agent评测数据集精选，收录了GUI Agent、具身智能、反思规划/认知智能等常见评测数据集。
-# 🧠 AgentBench Navigator — 面向AI智能体（Agent）的权威评测数据集导航站
+# 🧠 awesome-agent-benchmarks — 面向AI智能体（Agent）的权威评测数据集导航站
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Static Badge](https://img.shields.io/badge/Deployed_on-Gitee_Pages-blue?logo=gitee)](https://cloud1-7gc38f9i7c011c60-1392577459.tcloudbaseapp.com/)
