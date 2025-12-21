@@ -1,7 +1,6 @@
 # 🧠 awesome-agent-benchmarks — 面向AI智能体（Agent）的权威评测数据集导航站
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![PRs Welcome]
 
 > **一站式发现全球最前沿的大模型 Agent 评测基准（Benchmark）**  
 > 精选覆盖 **工具调用、多轮对话、代码生成、规划推理、真实世界任务** 等核心能力的数据集，助力研究者与开发者高效评估智能体性能。
