@@ -23,7 +23,6 @@
 1. WebArena<br>
 https://webarena.dev<br>
 https://github.com/web-arena/WebArena<br>
-WebArena: A Realistic Web Environment for Building Autonomous Agents (NeurIPS 2023)<br>
 
 2. VisualWebArena<br>
 https://jykh.com/vwa<br>
@@ -39,46 +38,38 @@ https://d6108366.hf-mirror.com/datasets/osunlp/Mind2Web<br>
 4. Mind2Web-Live<br>
 https://huggingface.co/datasets/iMeanAI/Mind2Web-Live<br>
 https://hf-mirror.com/datasets/iMeanAI/Mind2Web-Live<br>
-WebCanvas: Benchmarking Web Agents in Online Environments<br>
 
 5. GAIA<br>
 https://huggingface.co/datasets/gaia-benchmark/GAIA<br>
 https://hf-mirror.com/datasets/gaia-benchmark/GAIA<br>
-GAIA: a benchmark for General AI Assistants (Meta AI, 2023)<br>
 
 6. WorkArena<br>
 https://github.com/ServiceNow/WorkArena<br>
 https://hf-mirror.com/datasets/ServiceNow/WorkArena-Instances<br>
-[WorkArena]How Capable are Web Agents at Solving Common Knowledge Work Tasks?https://arxiv.org/pdf/2403.07718.pdf<br>
 
 7. TaskCraft<br>
 https://taskcraft.ai<br>
 https://huggingface.co/datasets/oppo-research/TaskCraft<br>
 https://hf-mirror.com/datasets/PersonalAILab/TaskCraft<br>
-TaskCraft: A Large-Scale Dataset for Mobile Agent Training (CVPR 2025)<br>
 https://arxiv.org/abs/2506.10055<br>
 
 8. InternData-A1<br>
 https://huggingface.co/datasets/InternRobotics/InternData-A1<br>
 https://hf-mirror.com/datasets/InternRobotics/InternData-A1<br>
-InternData: Scaling Up Synthetic Embodied Data for Generalist Agents <br>
 
 9.ToolBench<br>
 https://huggingface.co/datasets/OpenBMB/ToolBench<br>
 https://github.com/OpenBMB/ToolBench<br>
 https://hf-mirror.com/datasets/Maurus/ToolBench<br>
-ToolBench: A Large-Scale Benchmark for Tool-Augmented LLMs (arXiv:2308.08644, 2023)<br>
 
 10. API-Bank<br>
 https://modelscope.cn/datasets/Tongyi-Laboratory/API-Bank<br>
 https://hf-mirror.com/datasets/liminghao1630/API-Bank<br>
-API-Bank: A Benchmark for Enterprise-Grade Tool-Using Agents (Alibaba Tech Report, 2024)<br>
 
 11. SWE-bench<br>
 https://swebench.com<br>
 https://github.com/princeton-nlp/SWE-bench<br>
 https://hf-mirror.com/datasets/princeton-nlp/SWE-bench<br>
-SWE-bench: Can Language Models Solve Real-World Software Issues? (NeurIPS 2023)<br>
 
 ......<br>
 
